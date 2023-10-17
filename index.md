@@ -1,9 +1,9 @@
 ---
 layout: col-sidebar
-title: OWASP Vignan Institute of Information and Technology
-tags: OWASP VIIT
+title: OWASP VFSTR Deemed to be University
+tags: OWASP VFSTR
 region: Asia
-meetup-group: OWASP Vignan Institute of Information and Technology
+meetup-group: OWASP Vignan Foundation for Science,Technology and Research.
 ---
 
 <img src=""/>
@@ -47,4 +47,4 @@ Follow and Support us on
 
 #### Stay Updated, Stay Safe!
 
-#### ~ OWASP Vignan University
+#### ~ OWASP VFSTR Deemed to be University
