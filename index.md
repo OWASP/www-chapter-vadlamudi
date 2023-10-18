@@ -10,29 +10,32 @@ meetup-group: OWASP Vignan Foundation for Science,Technology and Research.
 
 ## Welcome
 
-Vignan Foundation for Science,Technology and Research has been a steady source of highly skilled talent to the nation as well as overseas. A pioneer in engineering education, research and innovation. The team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their innovative techniques and discoveries. By successfully organizing many hackathons, tech-talks, workshops and coding nights, we have always strived hard to maintain the coding culture throughout the campus.
+Welcome you all to OWASP VFSTR Deemed to be University, Vadlamudi Student Chapter
+Vignan’s Foundation for Science, Technology and Research (VFSTR) University, provides quality education in a diverse and intellectually stimulating environment. It imparts value addition training to students to make them competent and inspired engineers. The Institute celebrates the power of knowledge, cultivates vision and encourages new ideas, besides aiming to inculcate human values and build awareness about the self and society around. 
+The OWASP VFSTR Deemed to be University, Vadlamudi Student Chapter was formed in 2023 with the aim of spreading awareness about cybersecurity
+Our Chapter plan to conduct many Webinars, Workshops and Technical Talks. All these events are open to all where everyone can join and share their knowledge & collaborate in Security domain. The chapter presents opportunities for the communities in contributing to design & develop secure usage.
+
 
 ## Participation
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
-
+The Open Web Application Security Project (OWASP) is a non-profit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 Chapters are led by local leaders in accordance with the Chapters Policy. Financial contributions should only be made online using the authorized online donation button.
-
 Everyone is welcome and encouraged to participate in our Projects, Local Chapters, Events, Online Groups, and Community Slack Channel. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be become a member or consider a donation to support our ongoing work.
+
 
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 
 ### Upcoming Events
 
-We are going to organise our department hackthons,workshops and much more stay tuned with us.
+We are going to organise Technical Talks, Workshops and much more. Stay tuned with us.
 
 ## Activities
 
-We majorly indulge in sharing our knowledge through our blogs (both on Medium as well as on Blogger) and CTFs, spreading cybersecurity awareness with our weekly news, infographics, quiz, and instagram reels, conduct various events like CTFs, hackathons, webinars, workshops, open-quiz, along with various other cybersecurity events and most importantly learn together and contribute to the open-source community with our projects.
+##We majorly indulge in sharing our knowledge through our blogs (both on Medium as well as on Blogger) and CTFs, spreading cybersecurity awareness with our weekly news, infographics, quiz, and instagram reels, ##conduct various events like CTFs, hackathons, webinars, workshops, open-quiz, along with various other cybersecurity events and most importantly learn together and contribute to the open-source community with our ##projects.
 
 ## Where we've come
 
-Our organization stands with a Chapter Leader, Chapter Manager, Secretary and the sub-ordinating heads of various departments (Technical, Web-development, Design, and Operations). Each member is assigned certain roles and they regularly contribute for the development and growth of the chapter. Together, we work together to come together to fulfil our primary purpose - to spread awareness about cyber security.
+##Our organization stands with a Chapter Leader, Chapter Manager, Secretary and the sub-ordinating heads of various departments (Technical, Web-development, Design, and Operations). Each member is assigned certain ##roles and they regularly contribute for the development and growth of the chapter. Together, we work together to come together to fulfil our primary purpose - to spread awareness about cyber security.
 
 ## CONNECT WITH US!
 
