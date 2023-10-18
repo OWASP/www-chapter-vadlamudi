@@ -6,7 +6,7 @@ region: Asia
 meetup-group: OWASP Vignan Foundation for Science,Technology and Research.
 ---
 
-<img src=""/>
+<img src="logo.jpg"/>
 
 ## Welcome
 
