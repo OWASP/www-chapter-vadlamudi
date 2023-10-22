@@ -27,7 +27,7 @@ Everyone is welcome and encouraged to participate in our Projects, Local Chapter
 
 ### Upcoming Events
 1. Technical Talk on  "Recent Trends and Developments on Cyber Security" by Dr S Venkatesan, IIIT Allahabad on 25th October 2023, 9:00 AM - 10:30 AM.
-#### <a href="https://forms.gle/9sssnfNqGq3e8gx87>Register Here</a><br/> 
+#### <a href="https://forms.gle/9sssnfNqGq3e8gx87>RegisterHere</a>
 2. Technical Talk on  “Information security principles for real world” by Dr. N. Raghu Kishore, Mahindra University, Hyderabad on 3rd November 2023, 10:00 AM to 12:00 PM.
 #### Register Here: https://forms.gle/UuRqC1wKTLGXHcwU8
 
