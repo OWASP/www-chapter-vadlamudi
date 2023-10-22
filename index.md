@@ -27,8 +27,7 @@ Everyone is welcome and encouraged to participate in our Projects, Local Chapter
 
 ### Upcoming Events
 1. Technical Talk on  "Recent Trends and Developments on Cyber Security" by Dr S Venkatesan, IIIT Allahabad on 25th October 2023, 9:00 AM - 10:30 AM.
-<a href="https://www.instagram.com/vignanuniversityofficial/" target="_blank" ><img width = "20" height = "20" src ="./assets/images/instagram-brands.svg"/> <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
- 
+<a href="https://forms.gle/9sssnfNqGq3e8gx87" target="_blank" ><span style = "font-family:sans-serif">Register Here </span> </a> <br/>
 2. Technical Talk on  “Information security principles for real world” by Dr. N. Raghu Kishore, Mahindra University, Hyderabad on 3rd November 2023, 10:00 AM to 12:00 PM.
 #### Register Here: https://forms.gle/UuRqC1wKTLGXHcwU8
 
