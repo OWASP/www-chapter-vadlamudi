@@ -12,15 +12,15 @@ tags:
 
 <div class="gallery">
   <figure>
-    <img src="IMG_0550.png" alt="Speaker 1">
+    <img src="IMG_0550.PNG" alt="Speaker 1">
     <figcaption>Speaker 1</figcaption>
   </figure>
   <figure>
-    <img src="IMG_0551.png" alt="Speaker 2">
+    <img src="IMG_0551.PNG" alt="Speaker 2">
     <figcaption>Speaker 2</figcaption>
   </figure>
   <figure>
-    <img src="IMG_0549.png" alt="Speaker 3">
+    <img src="IMG_0549.PNG" alt="Speaker 3">
     <figcaption>Speaker 3</figcaption>
   </figure>
 </div>
