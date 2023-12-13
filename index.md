@@ -3,6 +3,7 @@ layout: col-sidebar
 title: OWASP VFSTR Deemed to be University
 tags: OWASP VFSTR
 region: Asia
+country: India
 meetup-group: OWASP Vignan Foundation for Science, Technology and Research.
 ---
 
@@ -17,7 +18,7 @@ Our Chapter plans to conduct many Webinars, Workshops, and Technical Talks. All 
 
 ## Participation
 
-The Open Web Application Security Project (OWASP) is a non-profit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.<br />
+The Open Worldwide Application Security Project (OWASP) is a non-profit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.<br />
 Chapters are led by local leaders in accordance with the Chapters Policy. Financial contributions should only be made online using the authorized online donation button.<br />
 Everyone is welcome and encouraged to participate in our Projects, Local Chapters, Events, Online Groups, and Community Slack Channel. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to become a member or consider a donation to support our ongoing work. <br />
 
